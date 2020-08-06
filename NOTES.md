@@ -1,1 +1,1 @@
-tsc using-ts.ts - compiles to js file
+tsc app.ts - compiles to js file
